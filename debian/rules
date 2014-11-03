@@ -553,6 +553,24 @@ debian_patches = \
 	bash32-037 \
 	bash32-038 \
 	bash32-039 \
+	bash32-040 \
+	bash32-041 \
+	bash32-042 \
+	bash32-043 \
+	bash32-044 \
+	bash32-045 \
+	bash32-046 \
+	bash32-047 \
+	bash32-048 \
+	bash32-049 \
+	bash32-050 \
+	bash32-051 \
+	bash32-052 \
+	bash32-053 \
+	bash32-054 \
+	bash32-055 \
+	bash32-056 \
+	bash32-057 \
 	bashbug-editor \
 	deb-bash-config \
 	deb-examples \
