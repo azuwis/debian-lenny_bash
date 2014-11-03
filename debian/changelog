@@ -1,3 +1,11 @@
+bash (3.2-4+netease1) unstable; urgency=low
+
+  * debian/patches/: Add bash32-040 ~ bash32-057 patches.
+    This fix 'shellshock' vulnerability
+  * debian/rules: Add bash32-040 ~ bash32-057 to debian_patches
+
+ -- Zhong Jianxin <azuwis@gmail.com>  Mon, 03 Nov 2014 18:51:44 +0800
+
 bash (3.2-4) unstable; urgency=low
 
   * bash-minimal, bash-static: Only call `add-shell' on new installations.
